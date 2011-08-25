@@ -87,7 +87,7 @@ function check_help {
 }
 
 # list bookmarks with dirnam
-function l {
+function k {
     check_help $1
     source $SDIRS
         
